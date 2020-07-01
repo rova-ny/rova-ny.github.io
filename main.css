@@ -27,8 +27,13 @@ div {
 
 img {
   background-color: #000000;
-  border: 20px solid black;
+  border: 20px solid yellow;
 }
+video {
+  background-color: #000000;
+  border: 20px solid yellow;
+}
+
 
 .container {
   display: flex;
