@@ -40,7 +40,7 @@ video {
 }
 
 .main {
-  padding: 30px
+  position: absolute;
   padding-left: 30px;
   min-width: 75%;
 }
