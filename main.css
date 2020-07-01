@@ -40,9 +40,9 @@ img {
 }
 
 .nav {
-  background-color: #FFEE00;
+  background-color: #00BFFF;
   max-width: 30%;
-  min-width: 140px;
+  min-width: 160px;
   flex: 1;
 }
 
