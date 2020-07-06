@@ -15,8 +15,7 @@ footer .row {
 
 header h1 {
   font-weight: 700;
-  font-size: 60px;
-  color: red;
+  font-size: 40px;
 
   margin: 0;
 }
@@ -51,6 +50,13 @@ header p {
 .jumbotron h3 {
   margin: 0 0 20px;
   color: #fff;
+}
+
+section h1{
+    font-weight: 700;
+    font-size: 40px;
+
+  margin: 0;
 }
 
 section .row img {
