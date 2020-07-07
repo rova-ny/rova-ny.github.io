@@ -52,10 +52,10 @@ header p {
 }
 
 .section h1{
-    font-weight: 700;
-    font-size: 40px;
-    color: red;
-    margin: 0;
+    font-weight: 1700;
+    font-size: 50px;
+    color: grey;
+    margin: 20px;
 }
 
 section .row img {
